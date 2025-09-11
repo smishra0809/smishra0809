@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on MERN Projects
 - 💬 Ask me about anything but everything
 - 📫 How to reach me: saurabhm0926@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: It’s not a bug; it’s an undocumented feature.
 
 
