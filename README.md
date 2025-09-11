@@ -8,7 +8,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [My Portfolio](https://smishra0809.vercel.app/)
-- 🌱 I’m currently learning DSA, MERN Stack...
 - 👯 I’m looking to collaborate on MERN Projects
 - 💬 Ask me about anything but everything
 - 📫 How to reach me: saurabhm0926@gmail.com
