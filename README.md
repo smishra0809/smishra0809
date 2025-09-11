@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning DSA, MERN Stack...
 - 👯 I’m looking to collaborate on MERN Projects
 - 💬 Ask me about anything but everything
-- 📫 How to reach me: saurabhmishra@gmail.com
+- 📫 How to reach me: saurabhm0926@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: It’s not a bug; it’s an undocumented feature.
 
